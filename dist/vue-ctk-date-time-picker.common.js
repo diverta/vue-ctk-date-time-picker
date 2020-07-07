@@ -4164,6 +4164,17 @@ module.exports = __webpack_require__("8378").getIteratorMethod = function (it) {
 
 /***/ }),
 
+/***/ "282e":
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony import */ var _node_modules_mini_css_extract_plugin_dist_loader_js_ref_8_oneOf_1_0_node_modules_css_loader_index_js_ref_8_oneOf_1_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_8_oneOf_1_2_node_modules_sass_loader_dist_cjs_js_ref_8_oneOf_1_3_node_modules_cache_loader_dist_cjs_js_ref_0_0_node_modules_vue_loader_lib_index_js_vue_loader_options_YearMonthSelector_vue_vue_type_style_index_0_id_1aaf1421_lang_scss_scoped_true___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__("60c0");
+/* harmony import */ var _node_modules_mini_css_extract_plugin_dist_loader_js_ref_8_oneOf_1_0_node_modules_css_loader_index_js_ref_8_oneOf_1_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_8_oneOf_1_2_node_modules_sass_loader_dist_cjs_js_ref_8_oneOf_1_3_node_modules_cache_loader_dist_cjs_js_ref_0_0_node_modules_vue_loader_lib_index_js_vue_loader_options_YearMonthSelector_vue_vue_type_style_index_0_id_1aaf1421_lang_scss_scoped_true___WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_mini_css_extract_plugin_dist_loader_js_ref_8_oneOf_1_0_node_modules_css_loader_index_js_ref_8_oneOf_1_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_8_oneOf_1_2_node_modules_sass_loader_dist_cjs_js_ref_8_oneOf_1_3_node_modules_cache_loader_dist_cjs_js_ref_0_0_node_modules_vue_loader_lib_index_js_vue_loader_options_YearMonthSelector_vue_vue_type_style_index_0_id_1aaf1421_lang_scss_scoped_true___WEBPACK_IMPORTED_MODULE_0__);
+/* unused harmony reexport * */
+ /* unused harmony default export */ var _unused_webpack_default_export = (_node_modules_mini_css_extract_plugin_dist_loader_js_ref_8_oneOf_1_0_node_modules_css_loader_index_js_ref_8_oneOf_1_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_8_oneOf_1_2_node_modules_sass_loader_dist_cjs_js_ref_8_oneOf_1_3_node_modules_cache_loader_dist_cjs_js_ref_0_0_node_modules_vue_loader_lib_index_js_vue_loader_options_YearMonthSelector_vue_vue_type_style_index_0_id_1aaf1421_lang_scss_scoped_true___WEBPACK_IMPORTED_MODULE_0___default.a); 
+
+/***/ }),
+
 /***/ "28a5":
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -4966,13 +4977,6 @@ module.exports = __webpack_require__("9e1e") ? function (object, key, value) {
 var document = __webpack_require__("e53d").document;
 module.exports = document && document.documentElement;
 
-
-/***/ }),
-
-/***/ "3301":
-/***/ (function(module, exports, __webpack_require__) {
-
-// extracted by mini-css-extract-plugin
 
 /***/ }),
 
@@ -9396,6 +9400,13 @@ module.exports = function (R, S) {
 
 })));
 
+
+/***/ }),
+
+/***/ "60c0":
+/***/ (function(module, exports, __webpack_require__) {
+
+// extracted by mini-css-extract-plugin
 
 /***/ }),
 
@@ -23226,17 +23237,6 @@ module.exports = function (it) {
 
 /***/ }),
 
-/***/ "ccb3":
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony import */ var _node_modules_mini_css_extract_plugin_dist_loader_js_ref_8_oneOf_1_0_node_modules_css_loader_index_js_ref_8_oneOf_1_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_8_oneOf_1_2_node_modules_sass_loader_dist_cjs_js_ref_8_oneOf_1_3_node_modules_cache_loader_dist_cjs_js_ref_0_0_node_modules_vue_loader_lib_index_js_vue_loader_options_YearMonthSelector_vue_vue_type_style_index_0_id_4a0f7afa_lang_scss_scoped_true___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__("3301");
-/* harmony import */ var _node_modules_mini_css_extract_plugin_dist_loader_js_ref_8_oneOf_1_0_node_modules_css_loader_index_js_ref_8_oneOf_1_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_8_oneOf_1_2_node_modules_sass_loader_dist_cjs_js_ref_8_oneOf_1_3_node_modules_cache_loader_dist_cjs_js_ref_0_0_node_modules_vue_loader_lib_index_js_vue_loader_options_YearMonthSelector_vue_vue_type_style_index_0_id_4a0f7afa_lang_scss_scoped_true___WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_mini_css_extract_plugin_dist_loader_js_ref_8_oneOf_1_0_node_modules_css_loader_index_js_ref_8_oneOf_1_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_8_oneOf_1_2_node_modules_sass_loader_dist_cjs_js_ref_8_oneOf_1_3_node_modules_cache_loader_dist_cjs_js_ref_0_0_node_modules_vue_loader_lib_index_js_vue_loader_options_YearMonthSelector_vue_vue_type_style_index_0_id_4a0f7afa_lang_scss_scoped_true___WEBPACK_IMPORTED_MODULE_0__);
-/* unused harmony reexport * */
- /* unused harmony default export */ var _unused_webpack_default_export = (_node_modules_mini_css_extract_plugin_dist_loader_js_ref_8_oneOf_1_0_node_modules_css_loader_index_js_ref_8_oneOf_1_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_8_oneOf_1_2_node_modules_sass_loader_dist_cjs_js_ref_8_oneOf_1_3_node_modules_cache_loader_dist_cjs_js_ref_0_0_node_modules_vue_loader_lib_index_js_vue_loader_options_YearMonthSelector_vue_vue_type_style_index_0_id_4a0f7afa_lang_scss_scoped_true___WEBPACK_IMPORTED_MODULE_0___default.a); 
-
-/***/ }),
-
 /***/ "ccb9":
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -27102,12 +27102,12 @@ var RangeShortcuts_component = normalizeComponent(
 )
 
 /* harmony default export */ var RangeShortcuts = (RangeShortcuts_component.exports);
-// CONCATENATED MODULE: ./node_modules/cache-loader/dist/cjs.js?{"cacheDirectory":"node_modules/.cache/vue-loader","cacheIdentifier":"e3b29fea-vue-loader-template"}!./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/cache-loader/dist/cjs.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./src/VueCtkDateTimePicker/_subs/PickersContainer/_subs/DatePicker/_subs/YearMonthSelector.vue?vue&type=template&id=4a0f7afa&scoped=true&
-var YearMonthSelectorvue_type_template_id_4a0f7afa_scoped_true_render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',{staticClass:"year-month-selector flex flex-direction-column",class:{'dark': _vm.dark}},[_c('div',{staticClass:"flex justify-content-right"},[_c('CustomButton',{attrs:{"color":_vm.dark ? '#757575' : '#424242',"dark":_vm.dark,"with-border":""},on:{"click":function($event){return _vm.$emit('back')}}},[_c('span',{staticClass:"fs-16"},[_vm._v("\n        ✕\n      ")])])],1),_c('div',{staticClass:"flex-1 flex flex-wrap justify-content-between align-center"},[_vm._l((_vm.months),function(m,index){return _c('CustomButton',{key:index,staticClass:"month-button",attrs:{"color":_vm.color,"selected":_vm.currentMonth === index,"dark":_vm.dark,"with-border":""},on:{"click":function($event){return _vm.selectMonth(index)}}},[_vm._v("\n      "+_vm._s(m)+"\n    ")])}),_vm._l((_vm.years),function(year){return _c('CustomButton',{key:year,attrs:{"color":_vm.color,"dark":_vm.dark,"selected":_vm.currentYear === year,"with-border":""},on:{"click":function($event){return _vm.selectYear(year)}}},[_vm._v("\n      "+_vm._s(year)+"\n    ")])})],2)])}
-var YearMonthSelectorvue_type_template_id_4a0f7afa_scoped_true_staticRenderFns = []
+// CONCATENATED MODULE: ./node_modules/cache-loader/dist/cjs.js?{"cacheDirectory":"node_modules/.cache/vue-loader","cacheIdentifier":"e3b29fea-vue-loader-template"}!./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/cache-loader/dist/cjs.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./src/VueCtkDateTimePicker/_subs/PickersContainer/_subs/DatePicker/_subs/YearMonthSelector.vue?vue&type=template&id=1aaf1421&scoped=true&
+var YearMonthSelectorvue_type_template_id_1aaf1421_scoped_true_render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',{staticClass:"year-month-selector flex flex-direction-column",class:{ dark: _vm.dark }},[_c('div',{staticClass:"flex justify-content-right"},[_c('CustomButton',{attrs:{"color":_vm.dark ? '#757575' : '#424242',"dark":_vm.dark,"with-border":""},on:{"click":function($event){return _vm.$emit('back')}}},[_c('span',{staticClass:"fs-16"},[_vm._v("\n        ✕\n      ")])])],1),_c('div',{staticClass:"flex-1 flex flex-wrap justify-content-between align-center"},[_vm._l((_vm.months),function(m,index){return _c('CustomButton',{key:index,staticClass:"month-button",attrs:{"color":_vm.color,"selected":_vm.currentMonth === index,"dark":_vm.dark,"with-border":""},on:{"click":function($event){return _vm.selectMonth(index)}}},[_vm._v("\n      "+_vm._s(m)+"\n    ")])}),_vm._l((_vm.years),function(year){return _c('CustomButton',{key:year,attrs:{"color":_vm.color,"dark":_vm.dark,"selected":_vm.currentYear === year,"with-border":""},on:{"click":function($event){return _vm.selectYear(year)}}},[_vm._v("\n      "+_vm._s(year)+_vm._s(_vm.locale == "ja" ? "年" : "")+"\n    ")])})],2)])}
+var YearMonthSelectorvue_type_template_id_1aaf1421_scoped_true_staticRenderFns = []
 
 
-// CONCATENATED MODULE: ./src/VueCtkDateTimePicker/_subs/PickersContainer/_subs/DatePicker/_subs/YearMonthSelector.vue?vue&type=template&id=4a0f7afa&scoped=true&
+// CONCATENATED MODULE: ./src/VueCtkDateTimePicker/_subs/PickersContainer/_subs/DatePicker/_subs/YearMonthSelector.vue?vue&type=template&id=1aaf1421&scoped=true&
 
 // EXTERNAL MODULE: ./node_modules/core-js/modules/es6.array.fill.js
 var es6_array_fill = __webpack_require__("6c7b");
@@ -27170,7 +27170,7 @@ var ArrayRange = function ArrayRange(start, end) {
 };
 
 /* harmony default export */ var YearMonthSelectorvue_type_script_lang_js_ = ({
-  name: 'YearMonthSelector',
+  name: "YearMonthSelector",
   components: {
     CustomButton: CustomButton
   },
@@ -27210,7 +27210,7 @@ var ArrayRange = function ArrayRange(start, end) {
       return this.month.year;
     },
     isMonthMode: function isMonthMode() {
-      return this.mode === 'month';
+      return this.mode === "month";
     }
   },
   mounted: function mounted() {
@@ -27230,13 +27230,13 @@ var ArrayRange = function ArrayRange(start, end) {
       this.years = ArrayRange(this.month.year - 7, this.month.year + 7);
     },
     selectMonth: function selectMonth(monthNumber) {
-      this.$emit('input', {
+      this.$emit("input", {
         month: monthNumber,
         year: this.currentYear
       });
     },
     selectYear: function selectYear(year) {
-      this.$emit('input', {
+      this.$emit("input", {
         month: this.currentMonth,
         year: year
       });
@@ -27245,8 +27245,8 @@ var ArrayRange = function ArrayRange(start, end) {
 });
 // CONCATENATED MODULE: ./src/VueCtkDateTimePicker/_subs/PickersContainer/_subs/DatePicker/_subs/YearMonthSelector.vue?vue&type=script&lang=js&
  /* harmony default export */ var _subs_YearMonthSelectorvue_type_script_lang_js_ = (YearMonthSelectorvue_type_script_lang_js_); 
-// EXTERNAL MODULE: ./src/VueCtkDateTimePicker/_subs/PickersContainer/_subs/DatePicker/_subs/YearMonthSelector.vue?vue&type=style&index=0&id=4a0f7afa&lang=scss&scoped=true&
-var YearMonthSelectorvue_type_style_index_0_id_4a0f7afa_lang_scss_scoped_true_ = __webpack_require__("ccb3");
+// EXTERNAL MODULE: ./src/VueCtkDateTimePicker/_subs/PickersContainer/_subs/DatePicker/_subs/YearMonthSelector.vue?vue&type=style&index=0&id=1aaf1421&lang=scss&scoped=true&
+var YearMonthSelectorvue_type_style_index_0_id_1aaf1421_lang_scss_scoped_true_ = __webpack_require__("282e");
 
 // CONCATENATED MODULE: ./src/VueCtkDateTimePicker/_subs/PickersContainer/_subs/DatePicker/_subs/YearMonthSelector.vue
 
@@ -27259,11 +27259,11 @@ var YearMonthSelectorvue_type_style_index_0_id_4a0f7afa_lang_scss_scoped_true_ =
 
 var YearMonthSelector_component = normalizeComponent(
   _subs_YearMonthSelectorvue_type_script_lang_js_,
-  YearMonthSelectorvue_type_template_id_4a0f7afa_scoped_true_render,
-  YearMonthSelectorvue_type_template_id_4a0f7afa_scoped_true_staticRenderFns,
+  YearMonthSelectorvue_type_template_id_1aaf1421_scoped_true_render,
+  YearMonthSelectorvue_type_template_id_1aaf1421_scoped_true_staticRenderFns,
   false,
   null,
-  "4a0f7afa",
+  "1aaf1421",
   null
   
 )
